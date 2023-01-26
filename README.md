@@ -43,6 +43,8 @@ Static Web Apps
 
 Other Azure Technologies : App Services.
 
+Git hub Repository:https://github.com/arthikatteboina/poly_clinic.git
+
 Project Demo Link:https://brave-river-03ad18200.2.azurestaticapps.net/services.html
 
 Demo Video:https://youtu.be/REya7DqxZR8
