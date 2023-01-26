@@ -44,3 +44,5 @@ Static Web Apps
 Other Azure Technologies : App Services.
 
 Project Demo Link:https://brave-river-03ad18200.2.azurestaticapps.net/services.html
+
+Demo Video:https://youtu.be/REya7DqxZR8
